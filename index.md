@@ -13,4 +13,4 @@ Hello! My name is Matthew Steiglitz, and I am a senior in mechanical engineering
 
 In my free time, I like to read, watch movies, listen to music, and spend time with friends. I also like to learn about the sciences, geography, history, and art. 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/assets/Matthew_Steiglitz_Resume_2025-2026.pdf/" | relative_url }}">CV</a>.
