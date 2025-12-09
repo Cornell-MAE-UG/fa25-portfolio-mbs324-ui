@@ -3,7 +3,7 @@ layout: project
 title: System Dynamics Model of Satellite
 description: Create a system dynamics model of a satellite. 
 technologies: [Matlab, Simulink]
-image: #/assets/images/radio-machine-cad.jpg
+image: #/assets/images/satellite-system-model.png
 ---
 
 For MAE 3260 (System Dynamics), I was part of a group tasked with creating a system dynamics model of a real-world system. We selected a satellite. My main role in this project was to create a model of the satellite for simulation testing. I also helped investigate the actuators used in real satellites. 
