@@ -13,7 +13,7 @@ For MAE 4272 (Heat Trasnfer and Fluid Dynamics Lab), I was part of a team tasked
 We selected an airfoil that would have a high CL/CD ratio over a wide range of AoA values to maximize useful force and therefore power. We predicted a peak power of 1.6 W at design speed 4.8 m/s (the most common wind speed in our model) and 1500 RPM. The airfoil pitch was specified as a function of optimal AoA, radial distance, and rotation rate, twisting the airfoil to maintain constant AoA for maximum CL/CD at design speed. 
 
 ![Blade CAD Showing Pitch]({{ "/fa25-portfolio-mbs324-ui/assets/images/bladecad.png" | https://cornell-mae-ug.github.io/fa25-portfolio-mbs324-ui/assets/images/bladecad.png }}){: .inline-image-r style="width: 1000px"}
-![Wind Turbine]({{ "/fa25-portfolio-mbs324-ui/assets/images/turbinepic.png" | https://cornell-mae-ug.github.io/fa25-portfolio-mbs324-ui/assets/images/turbinepic.jpg }}){: .inline-image-r style="width: 1000px"}
+![Wind Turbine]({{ "/fa25-portfolio-mbs324-ui/assets/images/turbinepic.jpg" | https://cornell-mae-ug.github.io/fa25-portfolio-mbs324-ui/assets/images/turbinepic.jpg }}){: .inline-image-r style="width: 1000px"}
 
 
 We 3D-printed the blades and tested them in a wind tunnel. We controlled the wind speed and torque brake voltage. The torque on the turbine disc was increased from free spin until the rotation stopped. These power vs. RPM curves were collected for several different wind speeds in the 3-6 m/s range. Peak power of 0.9 W occured at 5 m/s, close to the design speed. However, further testing is needed to measure power at higher wind speeds between 5 and 7.5 m/s. 
